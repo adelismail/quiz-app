@@ -1,12 +1,14 @@
 # quiz-app
 
 ## Fronend
-Vue/cli
-Vue.js
-Vuex
-Bootstrap
-Sass
+```
+Vue/cli 
+Vue.js 
+Vuex 
+Bootstrap 
+Sass 
 Axios
+```
 
 ## Project setup
 ```
@@ -31,6 +33,3 @@ serve -s dist
 ```
 Prinfull Quiz API
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
