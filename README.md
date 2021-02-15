@@ -31,5 +31,5 @@ serve -s dist
 ```
 ### Backend
 ```
-Prinfull Quiz API
+Printfull Quiz API
 ```
